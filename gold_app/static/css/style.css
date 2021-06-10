@@ -1,0 +1,9 @@
+.locations {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+.location {
+    width: 25%;
+}
